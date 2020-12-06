@@ -1,3 +1,3 @@
-Hi there 👋, check out [Scala Algorithms](https://www.scala-algorithms.com/)!
+# Hi there 👋, check out [Scala Algorithms](https://www.scala-algorithms.com/)!
 
-Mail me --> hello@scalawilliam.com
+E-mail --> hello@scalawilliam.com
