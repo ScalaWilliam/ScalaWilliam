@@ -10,6 +10,10 @@
 </tbody>
 </table>
 
+Learning Scala? Check out [Scala Algorithms](https://www.scala-algorithms.com/), the
+most comprehensive collection of algorithms in pure-functional standard Scala with test cases 
+and explanations.
+
 ## Read about Scala & systems
 
 <!-- list -->
