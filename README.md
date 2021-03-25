@@ -5,8 +5,7 @@
 <tr><th style="text-align: left">E-mail</th><td> → <a href="mailto:hello@scalawilliam.com">hello@scalawilliam.com</a></td></tr>
 <tr><th style="text-align: left">Website</th><td> → <a href="https://www.scalawilliam.com/">scalawilliam.com</a></td></tr>
 <tr><th style="text-align: left">Location</th><td>Central London, UK</td></tr>
-<tr><th style="text-align: left">Working experience</th><td>Citibank, Singapore Exchange, Leonteq, Teralytics, UBS</td></tr>
-<tr><th style="text-align: left">Specialities</th><td>Scala, TDD, full-stack applications</td></tr>
+<tr><th style="text-align: left">Specialities</th><td>Scala, TDD, full-stack applications, finance</td></tr>
 </tbody>
 </table>
 
