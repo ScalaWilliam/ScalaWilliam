@@ -1,5 +1,7 @@
 # Hi there 👋
 
+I'm a Technical Lead specialising in Scala & TDD.
+
 <table>
 <tbody>
 <tr><th style="text-align: left">E-mail</th><td> → <a href="mailto:hello@scalawilliam.com">hello@scalawilliam.com</a></td></tr>
