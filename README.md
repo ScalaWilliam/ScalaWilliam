@@ -6,7 +6,6 @@ I'm a Technical Lead specialising in Scala & TDD.
 <tbody>
 <tr><th style="text-align: left">E-mail</th><td> → <a href="mailto:hello@scalawilliam.com">hello@scalawilliam.com</a></td></tr>
 <tr><th style="text-align: left">Website</th><td> → <a href="https://www.scalawilliam.com/">scalawilliam.com</a></td></tr>
-<tr><th style="text-align: left">Location</th><td>Central London, UK</td></tr>
 </tbody>
 </table>
 
