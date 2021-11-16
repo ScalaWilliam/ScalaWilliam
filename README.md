@@ -19,7 +19,6 @@ algorithms in pure-functional standard Scala with test cases and explanations.
 - [Web standards for content syndication](https://www.scalawilliam.com/web-standards-for-content-syndication/)
 - [The essential Scala build tool tutorial](https://www.scalawilliam.com/essential-sbt/)
 - [Capturing packets with scala-native ](https://www.scalawilliam.com/scala-native-libpcap/)
-- [Demystifying unit testing & TDD](https://www.scalawilliam.com/unit-testing/)
 - [The importance of Scala.js](https://www.scalawilliam.com/importance-scalajs/)
 - [XML Streaming for Scala](https://www.scalawilliam.com/xml-streaming-for-scala/)
 - [JDK 16's Top 5 for Scala](https://www.scalawilliam.com/jdk16-scala-top5/)
